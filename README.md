@@ -13,5 +13,5 @@
 
 ### :information_desk_person: About Me :
 - :computer: I'm C/C++ Developer from Russia
-- :bar_chart: I'm work on creating desktop applications
+- :bar_chart: I'm work on creating desktop/mobile applications
 - :books: I also study at the school of programmers - School 21
